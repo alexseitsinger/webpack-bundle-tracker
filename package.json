@@ -1,5 +1,5 @@
 {
-  "name": "webpack-bundle-tracker",
+  "name": "@alexseitsinger/webpack-bundle-tracker",
   "version": "0.4.3",
   "description": "Spits out some stats about webpack compilation process to a file",
   "keywords": [
@@ -13,7 +13,7 @@
   "bugs": "https://github.com/owais/webpack-bundle-tracker/issues",
   "repository": "https://github.com/owais/webpack-bundle-tracker.git",
   "license": "MIT",
-  "author": "Owais Lone",
+  "author": "Alex Seitsinger",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
