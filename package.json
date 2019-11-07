@@ -9,9 +9,9 @@
     "stats",
     "webpack"
   ],
-  "homepage": "https://github.com/owais/webpack-bundle-tracker",
-  "bugs": "https://github.com/owais/webpack-bundle-tracker/issues",
-  "repository": "https://github.com/owais/webpack-bundle-tracker.git",
+  "homepage": "https://github.com/alexseitsinger/webpack-bundle-tracker",
+  "bugs": "https://github.com/alexseitsinger/webpack-bundle-tracker/issues",
+  "repository": "https://github.com/alexseitsinger/webpack-bundle-tracker.git",
   "license": "MIT",
   "author": "Alex Seitsinger",
   "main": "lib/index.js",
