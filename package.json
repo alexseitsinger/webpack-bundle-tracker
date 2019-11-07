@@ -1,6 +1,6 @@
 {
   "name": "@alexseitsinger/webpack-bundle-tracker",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "description": "Spits out some stats about webpack compilation process to a file",
   "keywords": [
     "bundle",
@@ -26,7 +26,9 @@
     "travis": "yarn pretest && jest --runInBand --coverage --env node && codecov && yarn posttest"
   },
   "jest": {
-    "setupFilesAfterEnv": ["jest-extended"]
+    "setupFilesAfterEnv": [
+      "jest-extended"
+    ]
   },
   "dependencies": {
     "deep-extend": "^0.6.0",
